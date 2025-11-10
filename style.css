@@ -55,3 +55,9 @@ ul li a {
   background: rgba(255, 255, 255, 0.1);
   border: 1px solid rgba(red, green, blue, alpha);
 }
+
+/* pseudo-selector*/
+ul li a :hover {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(red, green, blue, alpha);
+}
